@@ -1,4 +1,4 @@
-package Praktek.Latihan1;
+package KelasObject.Latihan1;
 
 public class GelasMain {
 

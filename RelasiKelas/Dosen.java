@@ -1,10 +1,6 @@
 package RelasiKelas;
 
-import Praktek.Latihan2.Matakuliah;
-import java.util.ArrayList;
-import java.util.List;
-
-    // Kelas Dosen
+// Kelas Dosen
     public class Dosen {
         private String nama;
         private String nip;

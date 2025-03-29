@@ -1,4 +1,4 @@
-package Praktek.Latihan2;
+package KelasObject.Latihan2;
 
 import RelasiKelas.Dosen;
 

@@ -1,6 +1,8 @@
 package RelasiKelas;
 
-import Praktek.Latihan2.Matakuliah;
+//import KelasObject.Latihan2.Matakuliah;
+import KelasObject.Latihan2.Matakuliah;
+
 
 import java.util.ArrayList;
 import java.util.Date;

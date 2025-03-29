@@ -1,6 +1,6 @@
 package RelasiKelas;
 
-import Praktek.Latihan2.Matakuliah;
+import KelasObject.Latihan2.Matakuliah;
 
 public class TranskripNilaiMain {
     public static void main(String[] args) {
